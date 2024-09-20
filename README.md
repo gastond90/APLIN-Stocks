@@ -10,4 +10,4 @@ Usage:
 
 3. Run the script using Node.js:
 
-    anode Stocks.js
+    node Stocks.js
