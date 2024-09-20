@@ -6,8 +6,8 @@ Usage:
  
 2. Navigate to the APLIN folder:
 
-cd APLIN
+    cd APLIN
 
 3. Run the script using Node.js:
 
-node Stocks.js
+    anode Stocks.js
